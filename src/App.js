@@ -25,11 +25,13 @@ export default function App() {
             <Title>Hi there! </Title>
             <Description>
               {" "}
-              I'm a first-year Computer Science Student at the University of
-              Waterloo currently seeking Summer 2023 co-op. I love working with
-              software, artificial intelligence and computer algorithms. My
-              interests include exploring neuroscience, visualizing the art of
-              the emotion, and soft plushies have my whole heart.{" "}
+                I'm a first-year <b>Computer Science</b> Student at the <b>University of
+              Waterloo</b> currently seeking Summer 2023 co-op.<br /> 
+              <p>I love working with
+              software, artificial intelligence and computer algorithms. <br /> My
+              interests include exploring neuroscience, visualizing art of
+              emotion and the intellect, and soft plushies have my whole heart.<br /></p> 
+              <p> <b> Feel free to look around my room!</b></p>{" "}
             </Description>
           </TextContainer>
           <ButtonContainer>
